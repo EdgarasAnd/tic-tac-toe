@@ -18,7 +18,7 @@ import Board from './board';
       );
     }
   }
-  
+    
   // ========================================
   
   const root = ReactDOM.createRoot(document.getElementById("root"));
